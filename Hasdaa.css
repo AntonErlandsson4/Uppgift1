@@ -1,0 +1,13 @@
+p{ /* typseLektor*/
+    color:Red;
+}
+
+p, h2{ /"Gruppselektor*/
+    font-size: 300px;
+}
+
+body.bg-black{/*KLasseLektor*/
+    background-color: Black;
+}
+
+ 
